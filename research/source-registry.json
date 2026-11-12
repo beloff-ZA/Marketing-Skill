@@ -1,0 +1,134 @@
+{
+  "status": "candidate registry; not a legal clearance or real-time access guarantee",
+  "last_review": "2026-11-12",
+  "sources": [
+    {
+      "name": "IPA",
+      "url": "https://ipa.co.uk/knowledge/",
+      "purpose": "public-research",
+      "access_notes": "public pages; some gated",
+      "plugin_notes": "no plugin identified in initial directory search",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Ehrenberg-Bass",
+      "url": "https://www.ehrenberg-bass.org/",
+      "purpose": "marketing-science",
+      "access_notes": "public research; papers may be gated",
+      "plugin_notes": "no plugin identified",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "WARC",
+      "url": "https://www.warc.com/",
+      "purpose": "case-studies",
+      "access_notes": "public excerpts; subscription content",
+      "plugin_notes": "no plugin identified",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Cannes Lions",
+      "url": "https://www.canneslions.com/",
+      "purpose": "creative-awards",
+      "access_notes": "public pages; archive may be gated",
+      "plugin_notes": "no plugin identified",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Ads of the World",
+      "url": "https://www.adsoftheworld.com/",
+      "purpose": "creative-cases",
+      "access_notes": "public pages; media rights separate",
+      "plugin_notes": "no plugin identified",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/",
+      "purpose": "visual-reference",
+      "access_notes": "access restricted in previous test; no scraping",
+      "plugin_notes": "no plugin identified",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Behance",
+      "url": "https://www.behance.net/",
+      "purpose": "creative-portfolios",
+      "access_notes": "partial access; copyright and terms",
+      "plugin_notes": "no plugin identified",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Dribbble",
+      "url": "https://dribbble.com/",
+      "purpose": "creative-portfolios",
+      "access_notes": "public listings; automated access restricted",
+      "plugin_notes": "no plugin identified",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Canva",
+      "url": "https://www.canva.com/",
+      "purpose": "creative-production",
+      "access_notes": "official plugin; user authorisation",
+      "plugin_notes": "plugin available; connection check required",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Adobe",
+      "url": "https://www.adobe.com/",
+      "purpose": "creative-production",
+      "access_notes": "official plugin; guest or sign-in features",
+      "plugin_notes": "plugin available; connection check required",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Figma",
+      "url": "https://www.figma.com/",
+      "purpose": "design-production",
+      "access_notes": "official plugin; user authorisation",
+      "plugin_notes": "plugin available; connection check required",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Similarweb",
+      "url": "https://www.similarweb.com/",
+      "purpose": "competitive-research",
+      "access_notes": "official plugin; account/plan limits",
+      "plugin_notes": "plugin available; connection check required",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Ahrefs",
+      "url": "https://ahrefs.com/",
+      "purpose": "seo-research",
+      "access_notes": "official plugin; account/plan limits",
+      "plugin_notes": "plugin available; connection check required",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Metricool",
+      "url": "https://metricool.com/",
+      "purpose": "social-analytics",
+      "access_notes": "official plugin; user authorisation",
+      "plugin_notes": "plugin available; connection check required",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Supermetrics",
+      "url": "https://supermetrics.com/",
+      "purpose": "marketing-analytics",
+      "access_notes": "official plugin; account/plan limits",
+      "plugin_notes": "plugin available; connection check required",
+      "rule": "verify live access, terms, rights and connection before use"
+    },
+    {
+      "name": "Klaviyo",
+      "url": "https://www.klaviyo.com/",
+      "purpose": "email-analytics",
+      "access_notes": "official plugin; user authorisation",
+      "plugin_notes": "plugin available; connection check required",
+      "rule": "verify live access, terms, rights and connection before use"
+    }
+  ]
+}
