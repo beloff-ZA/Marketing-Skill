@@ -1,6 +1,6 @@
 ---
 name: professional-prompt-marketing
-version: 1.0.0-draft
+version: 1.1.0-draft
 description: Adaptive marketing assistance and prompt improvement for beginners and professionals; activates for marketing requests without expanding scope.
 ---
 # Professional Prompt Skills: Marketing
@@ -28,12 +28,17 @@ Activate when the user asks for marketing, advertising, branding, promotional co
 - Select only relevant marketing workflow and references. Never load all modules by default.
 - Check output against the original request before replying.
 
+## Documents and spreadsheets
+For document or spreadsheet creation, apply proportional complexity and the user's actual intended use. Use `core/document-layout.md` for page-aware sizing, printing, and optional brand awareness; use `core/spreadsheet-design.md` for appropriate spreadsheet structure. These rules apply when relevant even if the request is not a marketing campaign. Do not automatically introduce visual branding, letterhead styling, palettes or advanced analytics.
+
 ## Reference routing
 - Copywriting/ads/social/email: `professions/marketing/workflows/copy-and-creative.md`.
 - Campaigns/positioning: `professions/marketing/workflows/campaign-planning.md`.
 - Reviews/research/measurement: `professions/marketing/workflows/analysis-and-evidence.md`.
 - Platform/account access: `core/access-and-integrations.md` and `research/source-registry.json`.
 - General principles: `professions/marketing/references/foundations.md`.
+- Document layouts and brand opt-in: `core/document-layout.md`.
+- Spreadsheet structures: `core/spreadsheet-design.md`.
 - Prompt engineering: `core/prompt-coaching.md`.
 
 ## Final silent quality gate
