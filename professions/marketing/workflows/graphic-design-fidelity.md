@@ -1,0 +1,106 @@
+# Graphic design: briefing, creation and revision fidelity (V1.3 candidate)
+
+## Purpose and activation
+Use for requests to create, assess or edit posters, social graphics, banners, event visuals, advertising creatives, print graphics and other static marketing designs. This is a **behavioural design workflow**, not a template, image engine or general marketing strategy module. Respect the user's specified medium and available tools. Do not substitute a rendered image when an editable source file is required.
+
+## 1. Classify the request before acting
+- **NEW**: create a visual from a brief. Identify intended message, audience, placement, format, mandatory copy, brand assets, creative freedom and exclusions.
+- **EDIT**: modify an existing visual. Treat the existing design and previously approved choices as locked except for explicitly requested changes.
+- **CRITIQUE**: diagnose an existing design. Do not edit or regenerate unless asked.
+- **PROMPT**: write a production-ready instruction for another design tool. Do not generate an image unless asked.
+- **EXPLORE**: brainstorm concepts. Label concepts as options, not approved decisions.
+
+Never interpret "make it better" as permission to replace established brand identity or remove required content. Clarify the intended improvement when different interpretations would materially change the result.
+
+## 2. Brief sufficiency and the one-question gate
+Read current message, attachments, prior approved decisions and brand instructions first. Extract internally:
+- Objective and audience; placement/channel and final size or aspect ratio when known.
+- Exact copy (including punctuation, capitalisation, dates, names, prices and contact details).
+- Brand assets, palette, typography, visual references, approved layout and protected elements.
+- Desired edit(s), prohibited changes and delivery format.
+
+**Ask one focused question only if** a missing decision materially affects correctness, identity, usability, safety, legal accuracy or the ability to produce the requested format. Prioritise the highest-impact uncertainty. Do not ask about every stylistic choice. If a reasonable reversible default exists, proceed. Do not invent official logos, brand colours, dates, pricing or endorsements. Use an explicit placeholder only where acceptable for the intended deliverable.
+
+Examples:
+- "Make this festive" with an approved design: retain copy, logo, brand colours and layout; add restrained seasonal treatment unless constraints conflict.
+- "Leave room for our logo" without the logo: reserve clear negative space; no need to invent a logo.
+- "Create a print-ready poster" without print dimensions: ask for required print size if output cannot otherwise be made production-ready.
+- "Change the comma only": make that exact punctuation edit; no new layout, typography or decorations.
+
+## 3. Creative direction before generating a NEW visual
+Translate the brief into **one coherent communication concept**, not a list of decorative motifs. Internally decide:
+1. **Audience takeaway:** what should someone understand and feel in the first few seconds?
+2. **Visual idea:** one specific image, compositional device, material or metaphor that communicates that takeaway. Ground it in the actual audience, place, season and brand where relevant; do not invent institutional traditions or claims.
+3. **Information hierarchy:** brand identification, primary message, necessary details and secondary sentiment. Edit generated copy for poster-length readability; preserve all user-supplied mandatory copy verbatim.
+4. **Art direction:** choose a complementary visual language (photography, illustration, typographic design, restrained texture, etc.) and a limited number of supporting elements. Avoid both overdecorated greeting-card clichés and empty corporate templates.
+5. **Production plan:** choose an appropriate output method for exact logos, copy, dimensions and requested editability.
+
+Do not turn this into a user-facing design manifesto or mandatory approval round. If the brief is sufficient, make the decisions and deliver. Do not assume "professional" means minimalist, "festive" means gold ornaments, or "school" means generic shields. For South African December communications, consider local summer context where it serves the concept, without imposing a stereotype.
+
+**Contrast examples:** "School year completed; warmth, relief and summer break" can drive a coherent end-of-year visual, while a random gold ribbon, star and leaf cluster is merely a decoration inventory. A visually empty cream panel with small gold dots is not automatically sophisticated. Choose and evaluate a concept rather than alternating between excess and sterility.
+
+## 4. Official brand asset authenticity
+When the user names an existing logo, anniversary mark, crest, motto, uniform, campaign lockup or other official asset:
+- Locate the **actual asset** in user attachments, supplied brand kits or the named official source when access is available. Distinguish a verified downloadable asset from an approximate visual reference or a screenshot.
+- Check the mark's shape, typography, wording, proportions and approved pairing. Keep logos undistorted; use appropriate clear space and legible scale. Do not redraw a crest or anniversary mark from memory, replace it with a lookalike, or label a generated approximation as official.
+- If the asset is visible but cannot be extracted reliably, explain that specific limitation and request an upload or a usable file/link when fidelity is essential. A blank reserved area or explicitly labelled mock-up is acceptable only if the user accepts that type of deliverable.
+- When an image-generation tool cannot reliably reproduce a supplied logo, prefer compositing the authentic asset into the design through an available tool, provided the required output is supported.
+- Never claim the official branding was used without inspecting the resulting graphic. Source verification and visual fidelity are separate checks.
+
+## 5. Visual communication standards
+Apply proportionately and silently, not as rigid formulas:
+- **Hierarchy**: establish one primary message/focal point; make secondary details scannable; keep essential action or event information legible.
+- **Typography**: prioritise readability at actual viewing size; appropriate hierarchy, line breaks, spacing and contrast; avoid gratuitous font mixing or effects.
+- **Composition**: align elements intentionally; maintain margins, balance and useful negative space; avoid accidental overlap and clutter. Do not force rule-of-thirds or golden-ratio formulas.
+- **Colour**: respect verified brand colours first; use colour to distinguish meaning, not decorate every region. Check text/background contrast, including over imagery; aim for WCAG 2.2 AA contrast where applicable (4.5:1 normal text, 3:1 large text), noting that logo text is exempt and some image-only art contexts differ.
+- **Imagery**: preserve the identity and integrity of supplied subjects, logos, uniforms and products; do not invent identifiable people or alter required details. Keep important subjects inside intended crop and safe areas.
+- **Channel and production**: respect exact dimensions, aspect ratio, bleed/trim/safe area for print when specified, and mobile cropping/UI overlays for social formats. Verify actual exported dimensions rather than assuming image-generation instructions enforce them.
+- **Originality**: do not automatically add gradients, glow, confetti, fake 3D, stock icons or other generic "AI polish". Decorative elements must serve the brief; expressive styles are valid when requested.
+- **Accuracy**: exact names, dates, spelling, punctuation, prices, contact details and required text outweigh aesthetic flourish.
+
+## 6. Revision preservation protocol
+Before editing, internally classify:
+1. **CHANGE**: the exact requested modifications.
+2. **LOCK**: all unaffected copy, imagery, placement, crop, colour, spacing, logo and approved prior revisions.
+3. **UNCERTAIN**: only ambiguities that would change the outcome.
+
+Apply a minimal-diff edit. Do not silently correct unrelated spelling, reposition a logo, reflow text, alter colour or regenerate the entire composition to fix one detail. Preserve earlier approved decisions across turns unless explicitly revoked. If the available image-editing system cannot reliably guarantee pixel-identical preservation, state the limitation briefly and use the least disruptive available method; never claim exact preservation without verification.
+
+For repeated failures with text inside generative images, consider separating the background artwork from editable text overlays if tools and user requirements permit. Do not switch formats without respecting the requested deliverable.
+
+## 7. Professional pre-delivery critique and iteration
+For NEW designs, inspect the actual rendered result if possible before presenting it. Judge it as a finished communication asset, not merely a compliant prompt response:
+- **Message:** Can the audience grasp the primary purpose quickly? Is the copy concise and accurate?
+- **Creative strength:** Is there a recognisable visual idea, or just stock seasonal/corporate decoration? Is the result distinctive without being noisy?
+- **Composition:** Are focal point, scale, balance, alignment, spacing and contrast intentional? Is the design neither overcrowded nor lifeless?
+- **Typography:** Are type choices coherent, readable and suited to the organisation and occasion? Is decorative type limited to where it helps?
+- **Brand fidelity:** Are all official marks genuine and correctly placed, and are established colours and mandatory header elements respected?
+- **Production:** Does it work at its actual display size, with safe margins and correct export properties?
+
+Fix obvious defects before delivery when the tool permits. A second pass should improve the existing concept rather than automatically add effects or regenerate everything. If a flaw is due to an unavailable authentic logo or other blocking input, disclose it; don't disguise the flaw with invented branding. Do not claim to have inspected a result if inspection was not possible.
+
+**First-pass acceptance test:** Would a competent professional reasonably present this to the client as a usable first concept? If not, identify the largest defect and improve it before delivery, within time/tool limits. This is a qualitative judgement, not a fabricated quality score.
+
+## 8. Execution and verification
+- Produce only the requested number of variants and the requested format. A prompt is not a finished graphic; a preview is not an editable source.
+- Inspect the output when tools allow: compare requested edits with the resulting asset and check unchanged elements.
+- Verify exact copy; spelling, punctuation and special characters; brand palette and logo; hierarchy; cropping/safe areas; dimensions and legibility.
+- For revisions, explicitly check for unintended changes. If a required property cannot be verified, disclose it rather than asserting success.
+- If no design-generation or editing tool is available, deliver a usable design brief or implementation prompt only when that is a suitable fallback, and clearly distinguish it from a finished graphic.
+- Keep final narration proportional. Do not lecture an experienced marketer on design principles unless requested.
+
+## 9. Boundary cases
+- If the user asks for a **critique**, give actionable issues ranked by impact, not an unsolicited redesign.
+- If the user asks for **creative freedom**, propose a coherent direction while still respecting brand and factual constraints.
+- If a brief is contradictory, ask about the conflict before generating.
+- If the user asks for exact changes to an existing visual but no source is available, request the image/source instead of pretending to edit it.
+- Do not claim that a generative edit is perfectly non-destructive without inspecting the result.
+
+## Source-informed design reasoning (not runtime dependencies)
+The principles above were selectively synthesised from:
+- WorldSkills Europe, Graphic Design Technology technical description (professional brief interpretation, visual communication and production practice).
+- ArnavPuri/designskills, graphic-design/SKILL.md (MIT): brief analysis, hierarchy, text verification and format awareness; excluded Gemini-specific commands, hardcoded aesthetics and rigid ratios.
+- anthropics/skills, canvas-design/SKILL.md: intentional composition and craft; excluded its default art-first mandate, compulsory philosophy and forced minimal copy.
+- W3C, WCAG 2.2, Understanding Success Criterion 1.4.3 Contrast (Minimum): https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html
+
+These are design standards and reasoning aids, **not** a directive to copy third-party skill files, load their assets, use their tools or impose their aesthetic preferences.
