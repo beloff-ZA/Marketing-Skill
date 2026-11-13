@@ -1,6 +1,6 @@
 ---
 name: professional-prompt-marketing
-version: 1.1.0-draft
+version: 1.2.0-draft
 description: Adaptive marketing assistance and prompt improvement for beginners and professionals; activates for marketing requests without expanding scope.
 ---
 # Professional Prompt Skills: Marketing
@@ -36,6 +36,8 @@ For document or spreadsheet creation, apply proportional complexity and the user
 - Campaigns/positioning: `professions/marketing/workflows/campaign-planning.md`.
 - Reviews/research/measurement: `professions/marketing/workflows/analysis-and-evidence.md`.
 - Platform/account access: `core/access-and-integrations.md` and `research/source-registry.json`.
+- Seven-book research audit: `research/uploaded-reference-audit.md`.
+- Attributed source-informed principles: `professions/marketing/references/source-informed-principles.md`.
 - General principles: `professions/marketing/references/foundations.md`.
 - Document layouts and brand opt-in: `core/document-layout.md`.
 - Spreadsheet structures: `core/spreadsheet-design.md`.
