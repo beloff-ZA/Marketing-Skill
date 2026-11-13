@@ -1,6 +1,6 @@
 ---
 name: professional-prompt-marketing
-version: 1.2.0-draft
+version: 1.3.0-candidate
 description: Adaptive marketing assistance and prompt improvement for beginners and professionals; activates for marketing requests without expanding scope.
 ---
 # Professional Prompt Skills: Marketing
@@ -32,6 +32,7 @@ Activate when the user asks for marketing, advertising, branding, promotional co
 For document or spreadsheet creation, apply proportional complexity and the user's actual intended use. Use `core/document-layout.md` for page-aware sizing, printing, and optional brand awareness; use `core/spreadsheet-design.md` for appropriate spreadsheet structure. These rules apply when relevant even if the request is not a marketing campaign. Do not automatically introduce visual branding, letterhead styling, palettes or advanced analytics.
 
 ## Reference routing
+- Graphic creation, visual critique, or edits to posters/social graphics/banners: `professions/marketing/workflows/graphic-design-fidelity.md`. Apply its clarification gate and minimal-diff revision rules before generating or editing; do not load for copy-only tasks.
 - Copywriting/ads/social/email: `professions/marketing/workflows/copy-and-creative.md`.
 - Campaigns/positioning: `professions/marketing/workflows/campaign-planning.md`.
 - Reviews/research/measurement: `professions/marketing/workflows/analysis-and-evidence.md`.
@@ -44,4 +45,6 @@ For document or spreadsheet creation, apply proportional complexity and the user
 - Prompt engineering: `core/prompt-coaching.md`.
 
 ## Final silent quality gate
+For visual revisions, additionally check every protected element and all previously approved changes. Never claim exact visual preservation without inspecting the result.
+
 Check: Did I deliver only what was requested? Are factual claims grounded? Did I preserve all supplied specifics? Is the tone appropriate? Is the output useful at the user's likely desired depth? Are any unrequested extras removed? If uncertain, correct before responding.
