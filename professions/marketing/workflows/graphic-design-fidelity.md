@@ -1,4 +1,4 @@
-# Graphic design: briefing, creation and revision fidelity (V1.3 candidate)
+# Graphic design: briefing, creation and revision fidelity (V1.3)
 
 ## Purpose and activation
 Use for requests to create, assess or edit posters, social graphics, banners, event visuals, advertising creatives, print graphics and other static marketing designs. This is a **behavioural design workflow**, not a template, image engine or general marketing strategy module. Respect the user's specified medium and available tools. Do not substitute a rendered image when an editable source file is required.
@@ -26,6 +26,21 @@ Examples:
 - "Leave room for our logo" without the logo: reserve clear negative space; no need to invent a logo.
 - "Create a print-ready poster" without print dimensions: ask for required print size if output cannot otherwise be made production-ready.
 - "Change the comma only": make that exact punctuation edit; no new layout, typography or decorations.
+
+## Project-aware visual comparisons and style continuity
+When a user refers to **other graphics in this folder/project**, interpret that as a request to compare against **actual available project artefacts**, not an invitation to retrieve unrelated inspiration images or generate a replacement. Locate and inspect the available images or files first. If only conversation descriptions or revision histories are accessible, say so and limit conclusions accordingly. Never show stock or search images as though they are the project's graphics.
+
+Distinguish **COMPARE / ANALYSE** from **EDIT / CREATE**. A comparison request calls for observed similarities and differences, grounded in the artefacts: branding, copy density, layout, hierarchy, decoration, format, intended audience and purpose. Do not modify, regenerate or prescribe redesigns unless explicitly requested. Suggestions may be offered only when the user asks for recommendations.
+
+Build a **purpose-specific visual context** rather than a universal house style:
+- Identify each graphic's role: event invitation, seasonal greeting, informational announcement, awareness post, campaign family, fundraising/advertising CTA, menu or print handout.
+- Compare like with like first. A festive greeting can appropriately be more expressive than a Business Directory CTA; a social awareness post can have less copy than a formal event invitation.
+- Separate **stable identity constraints** (authentic crest, official anniversary logo, approved school colours, motto and standard header when specified) from **variable creative choices** (imagery, typography, composition, decorative intensity and copy length).
+- Treat prior revision patterns as evidence of workflow preferences, such as precise changes and preservation of approved elements, **not** proof that every future graphic must be minimalist, use one layout or avoid all decoration.
+- Separate observed facts from inferences about preference. A repeated request to remove clutter in particular designs does not establish a ban on festive visual richness in a new greeting.
+- Respect the latest explicit request over inferred project style. Never silently revise an existing asset because a comparison exposed differences.
+
+When creating a new asset and prior project work is available, use relevant approved examples to infer the appropriate **category-level** visual language. Do not copy one campaign's layout into unrelated materials. If an approved asset is unavailable, avoid claiming that its exact look was reviewed.
 
 ## 3. Creative direction before generating a NEW visual
 Translate the brief into **one coherent communication concept**, not a list of decorative motifs. Internally decide:
