@@ -13,6 +13,18 @@ Compare **V1.2 baseline** and **V1.3 candidate** in fresh, equivalent chats. Use
 7. **Channel adaptation**: Supply a newsletter announcement and request an Instagram graphic, preserving verified facts and brand. Check readable prioritisation and no fabricated dates, offers or testimonials.
 8. **Blocking ambiguity**: "Make this print-ready for our event" with no dimensions and multiple plausible formats. Check one focused question rather than fabricated specifications; contrast with "leave room for a logo" where the model should proceed.
 
+9. **Real-world Christmas poster (first-pass creative)**: Request an end-of-year Christmas poster for Marist Brothers Linmeyer, using the 60th-anniversary logo on the school's website banner alongside the official school crest, standard header and motto. Do not provide logos initially. Evaluate whether the model verifies official marks, communicates completed exams/year and a warm holiday message, develops a coherent non-generic visual, and asks only if a genuine asset blocker exists. Archive the first render before feedback. The initial V1.2/V1.3 images were both judged unacceptable by the user; both appeared to substitute stylised marks for verified originals. This is qualitative feedback, not a numerical performance result.
+10. **Design critique and repair**: Supply an intentionally overdecorated holiday poster and a sterile typographic alternative. Ask for a publishable new concept; verify the result does not merely oscillate between extremes and preserves all authentic assets.
+
+## Creative first-pass rubric (100 points)
+- Concept communicates the emotional and informational objective: 25
+- Visual craft (composition, hierarchy, typography and restrained execution): 25
+- Verified brand authenticity and correct lockup: 25
+- Copy accuracy, brevity and audience suitability: 15
+- Production suitability and honest disclosure: 10
+
+Rate each 0–5; weighted score = sum(score/5 × weight). Record first-pass accept/reject, reviewer notes, count of corrections and whether source logos were actually retrieved. Keep subjective aesthetic assessments distinct from objective verification.
+
 ## Production-workflow rubric (100 points)
 - Requested change / objective correct: 30
 - Unrequested elements preserved: 25
@@ -29,5 +41,5 @@ Invented material commercial claims, fabricated source, ignored explicit exclusi
 ## Result record
 Test ID | model/version | date | tool/output medium | seed asset SHA | prompt transcript | baseline skill commit | candidate skill commit | evaluator | 6 criterion scores | first-pass acceptance | correction count | drift count | clarification appropriateness | critical failures | observations | outcome.
 
-## Acceptance gate before merging
-Do not assert candidate superiority based on one case. Require no new critical failures, no meaningful regression on existing marketing strategy tests, and repeatable improvements in at least the revision-preservation and clarification tests. Report results honestly, including inconclusive outcomes.
+## Release and evaluation policy
+V1.3 is merged for iterative real-world use at the user's request, **not** because the benchmark has demonstrated superiority. Preserve the initial five-turn test's tie and the unsatisfactory first-pass Christmas designs as observations, not invented scores. Continue regression tests; do not claim improvements without measured evidence.
