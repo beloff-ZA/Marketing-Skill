@@ -1,12 +1,12 @@
-# Marketing Prompt Skill V1.3 (candidate branch)
+# Marketing Prompt Skill V1.3
 
 Portable Markdown-based skill, designed to work without plugins or MCP servers. Use `SKILL.md` as the entrypoint and load referenced files on demand.
 
-## V1.3 candidate graphic-design extension
+## V1.3 graphic-design extension
 
-The optional `professions/marketing/workflows/graphic-design-fidelity.md` module covers graphic brief sufficiency, one-question clarification, visual communication standards, minimal-diff revisions and output inspection. It does not replace the general marketing workflow or require third-party design tools. Source selection is documented in `research/graphic-design-standards-audit.md`; eight controlled scenarios and a production rubric are in `tests/graphic-design-workflow-benchmarks.md`.
+The optional `professions/marketing/workflows/graphic-design-fidelity.md` module covers graphic brief sufficiency, one-question clarification, visual communication standards, creative direction, official-brand-asset authenticity, professional pre-delivery critique, minimal-diff revisions and output inspection. It does not replace the general marketing workflow or require third-party design tools. Source selection is documented in `research/graphic-design-standards-audit.md`; eight controlled scenarios and a production rubric are in `tests/graphic-design-workflow-benchmarks.md`.
 
-**Status:** implementation candidate only. No V1.3 benchmark results or measured improvement claims yet. Compare against the frozen V1.2 baseline before merging.
+**Status:** V1.3 adopted as an iterative release at user request. The controlled five-turn edit test was reported as a tie, while the Christmas-poster creative comparison exposed weak design quality and unverified official marks in both versions. The three new capabilities are not yet independently validated. Do not claim V1.3 improves results until further tests establish that.
 
 ## Contents
 - `core/`: scope, adaptive expertise, prompt coaching, integration policy, page-aware documents and proportional spreadsheets.
@@ -26,4 +26,4 @@ A4 portrait is the default for ordinary print documents when no other size is in
 V1.2 baseline architecture and initial seven-book source synthesis implemented; source registry is not a legal clearance. Research claims require source-level validation; no live cross-model evaluation completed. Never imply benchmark success before tests are run.
 
 ## Next steps
-Expand sourced marketing reference notes; curate original campaign case records with citations and licensing; run baseline vs skill-enabled tests; fix observed failures.
+Run the Christmas-poster scenario again with verified brand assets and score first-pass creative quality, logo fidelity and correction count. Continue testing revision preservation and general marketing workflows. Fix observed failures without silently broadening scope.
