@@ -1,4 +1,6 @@
-# Marketing foundations (V1 provisional)
+# Marketing foundations (V1.2 source-informed draft)
+
+This file contains general working principles. For book-specific attribution and applicability limits, see `source-informed-principles.md` and `../../../research/uploaded-reference-audit.md`.
 
 ## Durable concepts
 - Audience relevance: connect the message to real needs, situations and motivations; do not invent audience research.
